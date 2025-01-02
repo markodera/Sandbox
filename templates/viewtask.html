@@ -1,0 +1,14 @@
+{% extends "layout.html" %}
+
+{% block title %}View Task{% endblock %}
+
+{% block content %}
+
+<h1>View Task</h1>
+
+<div>
+    <ol>
+        {% for task in tasks %}
+            <li>{% task %}</li>
+    </ol>
+</div>

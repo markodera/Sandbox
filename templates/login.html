@@ -1,0 +1,28 @@
+{% extends "layout.html" %}
+
+{% block title %}Login{% endblock %}
+
+{% block content %}
+<h1>Login</h1>
+{% with messages = get_flashed_messages() %}
+    {% if messages %}
+        <ul>
+            {% for message in messages %}
+                <li>{{ message }}</li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+{% endwith %}
+<form method="POST" action="{{ url_for('login') }}" class="login-form">
+    {{ form.hidden_tag() }}
+    <label for="username">Username</label>
+    <input type="text" id="username" name="username" required>
+    
+    <label for="password">Password</label>
+    <input type="password" id="password" name="password" required>
+    
+    <button type="submit" class="btn">Login</button>  
+    <div class="separator"><span>or</span></div>
+    <a href="{{ url_for('signup') }}" class="btn">Signup</a>
+</form>
+{% endblock %}
