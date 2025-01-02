@@ -1,6 +1,6 @@
 from flask import Flask, flash, render_template, request, url_for, redirect, session
 from flask_migrate import Migrate
-from flask_session import Session  # Import Flask-Session
+from flask_session import Session  
 from extensions import db, bcrypt
 import models
 
@@ -108,7 +108,7 @@ def view_task():
     tasks = models.Task.query.filter_by(user_id=user_id).all()
     return render_template('viewtask.html', tasks=tasks)
 
-# @app.route("/")
+
 
 if __name__ == '__main__':
     app.run(debug=True)
