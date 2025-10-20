@@ -1,0 +1,76 @@
+%SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS%
+%%SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS%
+%%SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS%
+%%%SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS%
+?%%%%%SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS%
+*%%%%SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS%%SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS%
+,?%%SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS%%?SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS%
+.+%%SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS%%S##SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS%
+.,?%%SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS%%SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS%
+..+%%%SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS%%SSSSSSS%%%%%%%%%%%SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS%
+..,?%%%%%SSSSSSSSSSSSSSSSSSSSSSSSSSSSS%%%%%%%SSSSS%%%%%%%%%%%%%%%%%%SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS%
+...+%%%%%SSSSSSSSSSSSSSSSSSSSSSSSSSS%?*++++++*?%%%?****+++++***?%%%%%%%SSSSSSSSSSSSSSSSSSSSSSSSSSSS%
+ ..,?%%%%SSSSSSSSSSSSSSSSSSSSSSSSS%?+++++++:::++?*:,,,,,,.,,,,,,:+*?%%%%%SSSSSSSSSSSSSSSSSSSSSSSSSS%
+ ...:%%%%%%%SSSSSSSSSSSSSSSSSSSSS%*+++:+***+:::,,,.,.....,.......,,:+*%%%%%SSSSSSSSSSSSSSSSSSSSSSSSS
+ ....*%%%%%%SS%SSSSSSSSSSSSSSSSS%?+++::+++:+::,,.....................,::*%%%SSSSSSSSSSSSSSSSSSSSSSSS
+ ....:%%%%%%%%%%SSS%SSS%SSSSSSS%%++++:+++::::,..........................,*%%%SSSSSSSSSSSSSSSSSSSSSSS
+  ....:?%%%%%%%%%%%%%%%%%%%%%%%%?+++::++:::::,,,.........................,:?%%SSSSSSSSSSSSSSSSSSSSSS
+  ...,,:?%%%%%%%%%%%%%%%%%%%%%%%*++:::++++:::::::,,,,,,,,,,................:?%SSSSSSSSSSSSSSSSSSSSS%
+ ..,::::+???%%%%%%%%%%%%%%%??**++++:+++++++::::::::::::,,,,,,..............,+%%SSSSSSSSSSSSSSSSSSSSS
+..:::::::::++**??????????*+++++++::++++++++:::::::::::::,,:,,,,.............,+%SSSSSSSSSSSSSSSSSSSSS
+,::::::::::::::::::+++++++::+::+:::+++++*++++::::::::::,:,,,,,,,,,...........,*%SSSSSSSSSSSSSSSSSSSS
+:::+::+::::::::::::::::+:::::::::+++++++**++++:::::++::,,::,,,,,,,,..........,:%SSSSSSSSSSSSSSSSSSSS
+::++::::::::::::::::::::::::::++++++++*****++++:,,:++::,,::::,,,,,,,,.........,?%SSSSSSSSSSSSSSSSSSS
+::::::++::::::::::::::::::::::+++++++*******+++:,,:+++::,,:::::,,,,,,,........,+%%SSSSSSSSSSSSSSSSSS
+:+++++++::::::::::::::::::::::+++++*********+++::,:++++:,,:::::::,,,,,,........,*%SSSSSSSSSSSSSSSSSS
+++++++++:::::::,,::::::::::::+:+++*********+++++*,:++++:,,:::::::::,,,,.........,?SSSSSSSSSSSSSSSSSS
+++++++++:::::,,,,::::::::::::::+++********++++:::,:+*++:,,::::::::::,,,,........,:%SSSSSSSSSSSSSSSSS
++++++:::::::,,,,,::::::::::::+++++********++++:,,::**++:,,:::::::::::,,,........,,*SSSSSSSSSSSSSSSSS
+++++:::::::,,,,,,::::::::+::++++++********+++++,,::+*+:,,:++::::::::::,,........,,:%SSSSSSSSSSSSSSSS
+++++::::::,,,,,,,::,::::++::+++++++*******+++::+*:++*+:,,:++:::::::::,,,..........:?SSSSSSSSSSSSSSSS
++++::::::,,,,,,::::::::::::::++:+++++*****+++::+?+++++::,:+++::++:::::,,..........,+%SSSSSSSSSSSSSSS
+++::::::::,,,,,::::::::::::::+::::+++++++++++:,:+::+++:::+++++++++::::,,..........,:?SSSSSSSSSSSSSSS
+++::::::::,,,,,::::::::::::::+::::::++++++++:::,,::+++::++++++++++::::,,..........,,+%SSSSSSSSSSSSSS
+++:::::::::,,,:::++:::::+++::++::::::+*++::::::,::+++++:+**++++++:::::,,..........,,:%SSSSSSSSSSSSSS
++++::::::+:.,,::++++:,:++++::+*:::::::**+::::::,::+++++++***++++++::::,,,.........,,:%SSSSSSSSSSSSSS
++++::::+++,.,,:+++*+:::+**+:+**+:::::,+**+::::::::+++++*****++++++::::,,,.........,,,?SSSSSSSSSSSSSS
+++++::++++,.,::++***::+*?*+:+*?*::::+:+**+::::::::++++******++++++:::,,,,..........,,*SSSSSSSSSSSSSS
+++++++++++,.,::++***+:*??*+:+*?+::::::**?+::::::::++++******++++++:::,,,,..........,,?SSSSSSSSSS%SSS
+++++++++++,.,::++***++*??**+**?+::::++*??+::::::::+**+******++++++::::,,,,.........,,*SSSSSSSSSSSSSS
+++++++++++,,,::+****++*??*++*??+:::+++*??+::::::::***+******+++++++::,,,,,........,,,?SSSSSSSSSSSSSS
+++++++++++,,,::+****+:*??*++**?+::++++*??*+:::+::+***+******+++++++::,,,,,........,,:%SSSSSSSSSSSSSS
+++++++++++,,,::+****+:*??**++*?*:::++:*??*+++++:+++*+++*****+++++++::,,,,,........,,*SSSSSSSSSSSSSSS
+++++++++++:,,::+****+:+*?**++*?*:::+::**?*+++++:++++++++****++++++++::,,,,........,,?SSSSSSSSSSSSS%S
+++++++++++:,,::++**++:+*??*+++*+::::,:*?*++++++:++++++:+++++++++++++::,,,,.......,,:%SSSSSSSSSSSSS%%
+**++++++++:,:::+++*++:++***+:+*+::+:+*??*+++++:::+++++::::++++++++++::,,,,.......,,+%SSSSSSSSSSSSS%%
+**+++++++++::::++++++::++*+::+*++++++*******++::::++++::::++++++++++::,,,,.......,,*SSSSSSSSSSSSSS%%
+***++++++++::::+++++++++++:::*++++++********++:++::++++:::+++++++++++:,,,........,,?SSSSSSSSSSSSS%%%
+*****+++*+++:::+++++++++++:,:+**+++*********++:+*,:+*++,::+++++++++++:,,,.......,,+%SSSSSSSSSSSSSS%%
+*****+++**+++::++++++++++++:+***************+++:,,:+**+,::+++++++++++:,,........,,*SSSSSSSSSSSSSSS%%
+**+*++++****+++++++++++++++++*******???******++,,,:+**+:::+++++++++++:,,........,,?SSSSSSSSSSSSSSS%%
+++++++++*****++++++++++++++++******?????******+:,,:+**+::::++++++++:::,,......,,,+%SSSSSSSSSSSSSS%%%
+++**+++++****+++++++++++++++++*****??????******++,++**+:,::+++++++::::,........,,?SSSSSSSSSSSSSS%%%%
+++***+++++****++++++++++++++++******?????******++:++**++,::+++++:::::,,........,:%SSSSSSSSSSSSSS%%%%
++++**+++++******+++++++++*++++*******????******+,::+++++:::++++::::,,,........,,*SSSSSSSSSSSSSSSS%%%
++++++++********************+**********????*****+::++++++::+++::::::,,........,,+%SSSSSSSSSSSSSSSS%%%
+,++++++********************************???****+++:+++++:::++:::::,,..........,:?SSSSSSSSSSSSSSSS%%%%
+.,+++++*****???????????**********************+++++++++++++::::::,..........,,+?%SSSSSSSSSSSSSSSS%%%S
+..,::++*?%%%SSSSSSSSSS%%?********************+++++++++++++:::,,,...........,,*%SSSSSSSSSSSSSSSSS%%S%
+.....,:?S%%%SSSSSSSSSSSS%%??****************++++++++++++:::,,.............,:*%%SSSSSSSSSSSSSSSSS%%%%
+...,,,:?%%%SSSSSSSSSSSSSSSS%%%??************+++++::::,:,,,,..............,:?%SSSSSSSSSSSSSSSSSSS%%%%
+.,,,:+?%%%%SSSSSSSSSSSSSSSSSSSSS?***++***++++++:,,,....................,,:?%%%SSSSSSSSSSSSSSSSSSS%%%
+.,,::?%%%%%%SSSSSSSSSSSSSSSSSSSS%****+****++:::,,,.,.......,....,,...,,:+?%%%%SSSSSSSSSSSSSSSSSSS%%%
+.,,:?%%%%%%%SSSSSSSSSSSSSSSSSSSS%?***+***++++++:,,,,,,,....,,,,,,,,,,,+?%%%%%%SSSSSSSSSSSSSSSSSSS%%%
+.,+?%%%%%%%%%SSSSSSSSSSSSSSSSSSSS%***+++++*****++:,,,,,,,,,,,,,,,:+++*%%%%%%%%%SSSSSSSSSS%SSSSSS%%%%
+.:%%%%%%%%%%%SSSSSSSSSSSSSSSSSSSSS%***+**?**++**%?**+:::::::++*+*%%%%%%%%%%%%%%%%SSSSSSSSSSSSSSS%%%%
+,*%%%%%%%%%%%SSSSSSSSSSSSSSSSSSSSSS%******+++**?SSS%%%?????%%%%%SSSS%%%%%%%%%%%%SSSSSSS%%SSSSSS%%%%%
+:?%%%%%%%%%%%SSSSSSSSSSSSSSSSSSSSSSS%%???*????%SSSSSSS%%%%SSSSSSSSSSS%%%%%%%%%%%%%SSSSS%%SSSSSS%%%%%
+*%%%%%%%%%%%%%SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS%%%SSSSSSSSSSS%%%%%%%%%%%%%SSSSS%%S%%SSSS%%%
+%%%%%%%%%%%%%%%SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS%%%%SSSSSSSSS%%%%%%%%%%%%%%SSSS%%%%%SSS%%%%
+%%%%%%%%%%%%%%%%SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS%%%%%%%SSSSSSS%%%%%%%%%%%%%%SSSS%%%%SSS%%%%
+%%%%%%%%%%%%%%S%%%%SSSSSSSSSSSS%SSSSSSSSSSSSSSSSSSSSSSSS%%%%%%%%%SSSSSSS%%%%%%%%%%%%%%SSSS%%SS%%%%%%
+%%%%%%%%%%%%%%S%%%%%%%%SSSS%%%SS%SSSSSSSSSSSSSSSSSSSSSSSSSS%%%%%%%SSSSSSS%%%%%%%%%%%%%%SSS%%%%SSS%%%
+%%%%%%%%%%%%%SS%%%%%%%%%%SS%%%%SSSSSSSSSSSSSSSSSSSSSSSSSS%S%%%%%%%%SSSSSSSS%%%%%%%%%%%%%SS%%%%%SS%%%
+%%%%%%%%%%%%%%S%%%%%%%%%%%SSS%%%S%SSSSSSSSSSSSSSSSSSSSSSSSS%%%%%%%%%%%%%%SSSS%%%S%%%%%%%%SSS%%%%%%%%
+%%%%%%%%%%%%%%SS%%%%%%%%%%%%%%%%%%%SSSSSSSSSSSSSSSSSSSSSSSS%%%%%%%%%%%%%%SSSSS%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%SS%%%%%%%%%%%%%%%%%%%SSSSSSSSSSSSSSSSSSSSSSSSS%S%%%%%%%%%%%%%%SSSS%%%%%%%%%%%%%%%%%%%%
